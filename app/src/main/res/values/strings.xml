@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">All_NECO_Lessons</string>
+
+    <!--    Pythagorean Theorem-->
+    <string name="title">Calculate \"C\"</string>
+    <string name="result_info">Result:\ </string>
+    <string name="result">Result</string>
+    <string name="input_a">Enter the value \"a\"</string>
+    <string name="input_b">Enter the value \"b\"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

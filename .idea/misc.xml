@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/drawable/ic_connect.xml" value="0.147" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/drawable/ic_connect_bluetooth.xml" value="0.147" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/drawable/ic_delete.xml" value="0.101" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/drawable/ic_item1.xml" value="0.1" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/drawable/ic_list.xml" value="0.147" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_activit_count_downtimer.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_bluetooth_contorl.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_edit_plants_handbook.xml" value="0.3687179487179487" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_accelero_test.xml" value="0.4359375" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_android_permissions.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_bottom_navigation_viiew.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_cristal_ball.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_drawer_layout.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_fragments.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_plants_handbook.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_main_qa.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_pythagorean_theorem.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_pythagorean_theorem2.xml" value="0.3687179487179487" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_pythagorean_theorem_ma.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_scanner_qa.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/activity_tool_bar.xml" value="0.40185185185185185" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/bluetooth_monitor_list.xml" value="0.3885416666666667" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/bluetooth_monitor_list_item.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/bottom_new_selector.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/fragment_blank1_fragments.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/fragment_blank2_fragments.xml" value="0.38958333333333334" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/header.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/main_item.xml" value="0.16923076923076924" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/layout/plant_item.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/menu/bloetooth_monitor_control_menu.xml" value="0.3885416666666667" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36944444444444446" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/menu/main_menu_tool_bar.xml" value="0.40185185185185185" />
+        <entry key="..\:/Users/m8ser/AndroidStudioProjects/All_NECO_Lessons/app/src/main/res/menu/navigation_menu.xml" value="0.36944444444444446" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
